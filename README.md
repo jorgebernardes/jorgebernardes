@@ -1,13 +1,14 @@
 ## Olá! Eu sou o Jorge Bernardes!
 
 - 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando C#/.NET
+- 🌱 Estudando GO
 - 📫 Contate-me no email: bernardes0jorge@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Jorge-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Jorge-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jorge-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 </div>
